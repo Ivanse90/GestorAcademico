@@ -1,3 +1,2 @@
 archivo para practiva git hub
-donde se busca aprender mucho de git
-
+nuevo cambio para repositorio
